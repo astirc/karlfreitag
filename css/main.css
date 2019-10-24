@@ -7,6 +7,7 @@ nav ul, footer ul {
     padding: 2px;
     list-style: none;
     font-weight: bold;
+    display: inline;
 }
 nav ul li, footer ul li {
     display: table;
@@ -36,4 +37,9 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+}
+
+ .contact-btn {
+     float: right;
+     
 }
